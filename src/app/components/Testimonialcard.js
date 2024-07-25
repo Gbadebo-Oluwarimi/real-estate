@@ -10,8 +10,11 @@ const Testimonialcard = () => {
         Contrary to popular belief, Lorem Ipsum is not <br />
         simply random text. It has roots in a piece
       </div>
-      <div class="testimonial flex gap-6 m-auto max-w-7xl">
-        <div className="group bg-white border border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm">
+      <div class="testimonial md:flex inline-block p-5  mb-2 gap-6 m-auto max-w-7xl">
+        <div
+          className="group bg-white border border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm"
+          data-aos="fade-down"
+        >
           <div class="">
             <div class="flex items-center mb-7 gap-2 text-amber-500 transition-all duration-500  ">
               <svg
@@ -48,7 +51,10 @@ const Testimonialcard = () => {
             </div>
           </div>
         </div>
-        <div className="group bg-white border border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm">
+        <div
+          className="group bg-white border mt-2 mb-2 md:mb-0 border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm"
+          data-aos="fade-down"
+        >
           <div class="">
             <div class="flex items-center mb-7 gap-2 text-amber-500 transition-all duration-500  ">
               <svg
@@ -85,7 +91,10 @@ const Testimonialcard = () => {
             </div>
           </div>
         </div>
-        <div className="group bg-white border border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm">
+        <div
+          className="group bg-white border border-solid border-gray-300 flex justify-between flex-col rounded-xl p-6 transition-all duration-500  w-full mx-auto hover:border-indigo-600 slide_active:border-indigo-600 hover:shadow-sm"
+          data-aos="fade-down"
+        >
           <div class="">
             <div class="flex items-center mb-7 gap-2 text-amber-500 transition-all duration-500  ">
               <svg

@@ -66,7 +66,7 @@ const Sectionb = () => {
               Check Products
             </button>
           </div>
-          <div className="min-h-screen md:min-h-screen landing_image p-8 w-full rounded-md">
+          <div className="min-h-screen mt-3 md:min-h-screen landing_image p-8 w-full rounded-md">
             <div
               className=" hidden md:inline-block relative top-3/4 w-full rounded-md  bg-white p-5"
               data-aos="fade-down"
