@@ -4,7 +4,6 @@ import { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import localFont from "next/font/local";
 import Landing from "./components/Landing";
-import Sublanding from "./components/Sublanding";
 import Section from "./components/Section";
 import Sectionb from "./components/Sectionb";
 import Latest from "./components/Latest";
@@ -14,6 +13,7 @@ import Sponsors from "./components/Sponsors";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Testimonial from "./components/Testimonial";
+import Projects from "./components/Projects";
 
 const myfont2 = localFont({
   src: "./font/Figtree-Light.ttf",
@@ -34,7 +34,7 @@ export default function Home() {
       <Section />
       <Sectionb />
       <Latest />
-      <Sublanding />
+      <Projects />
       <Testimonial />
       <Contact />
       <Footer />

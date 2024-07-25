@@ -3,7 +3,10 @@ import React from "react";
 const Card = () => {
   return (
     <>
-      <div class="relative mb-2 flex w-full md:max-w-[26rem] md:m-0 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-lg">
+      <div
+        class="relative mb-2 flex w-full md:max-w-[26rem] md:m-0 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-lg"
+        data-aos="fade-down"
+      >
         <div class="relative mx-4 mt-4 overflow-hidden text-white shadow-lg rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40">
           <img src="./house-a.jpg" alt="ui/ux review check" />
           <div class="absolute inset-0 w-full h-full to-bg-black-10 bg-gradient-to-tr from-transparent via-transparent to-black/60"></div>
