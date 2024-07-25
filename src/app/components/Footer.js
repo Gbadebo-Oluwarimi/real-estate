@@ -5,8 +5,8 @@ const Footer = () => {
   //   const t = useTranslations("INDEXPAGE");
   //   const u = useTranslations("NAVIGATION");
   return (
-    <div className="bg-green-100 text-gray-200">
-      <footer class="bg-green-50 dark:bg-gray-900 lg:grid lg:grid-cols-5">
+    <div className="bg-yellow-200 text-gray-200">
+      <footer class="bg-yellow-100 dark:bg-gray-900 lg:grid lg:grid-cols-5">
         <div class="relative footerbg block h-32 lg:col-span-2 lg:h-full"></div>
 
         <div class="px-4 py-16 sm:px-6 lg:col-span-3 lg:px-8">

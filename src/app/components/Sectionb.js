@@ -20,7 +20,7 @@ const Sectionb = () => {
               making it overin a piece of making it over
             </div>
             <div className="mt-6 text-xl flex mb-2 items-center align-middle">
-              <div className="p-2 rounded-md bg-green-200 flex items-center align-middle text-center">
+              <div className="p-2 rounded-md bg-yellow-200 flex items-center align-middle text-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -41,7 +41,7 @@ const Sectionb = () => {
               </div>
             </div>
             <div className=" text-xl flex mb-2 items-center align-middle">
-              <div className="p-2 rounded-md bg-green-200 flex items-center align-middle text-center">
+              <div className="p-2 rounded-md bg-yellow-200 flex items-center align-middle text-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"

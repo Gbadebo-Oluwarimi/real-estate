@@ -15,7 +15,7 @@ const Landing = () => {
       <div className="md:flex gap-8 inline-block">
         <div className="inline-block h-full md:w-2/4 w-full md:ml-20 ml-0 md:p-0 px-10 mt-44">
           <div
-            className="2xl:  2xl:text-6xl text-4xl items-center font-bold  align-middle text-center  md:text-left  md:text-5xl mb-3 md:pt-6 text-darkgreen w-full "
+            className="2xl:  2xl:text-7xl text-4xl items-center font-bold  align-middle text-center  md:text-left  md:text-5xl mb-3 md:pt-6 text-darkgreen w-full "
             data-aos="fade-down"
           >
             <h1>
