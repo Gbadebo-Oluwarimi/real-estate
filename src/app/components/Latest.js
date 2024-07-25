@@ -1,6 +1,6 @@
 import React from "react";
-import Card from "./Card";
-import Button from "./Button";
+import Card from "./Subcomponents/Card";
+import Button from "./Subcomponents/Button";
 
 const Latest = () => {
   return (

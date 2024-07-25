@@ -15,13 +15,17 @@ const Landing = () => {
       <div className="md:flex gap-8 inline-block">
         <div className="inline-block h-full md:w-2/4 w-full md:ml-20 ml-0 md:p-0 px-10 mt-44">
           <div
-            className=" text-4xl  xl:text-6xl w-full text-center md:text-left font-extrabold"
+            className="2xl:  2xl:text-6xl text-4xl items-center font-bold  align-middle text-center  md:text-left  md:text-5xl mb-3 md:pt-6 text-darkgreen w-full "
             data-aos="fade-down"
           >
-            Curating the Best{" "}
-            <span className="text-yellow-600">Properties</span> That you truly
-            Deserve
+            <h1>
+              Curating the Best{" "}
+              <span className="text-yellow-800">Properties</span> That You Truly
+              Deserve{" "}
+            </h1>
+            <span className="text-green-700"></span>
           </div>
+
           <div
             className="text-sm md:w-2/3 w-full md:text-left text-center mt-5"
             data-aos-delay="1000"
